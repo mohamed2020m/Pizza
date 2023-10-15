@@ -7,14 +7,14 @@
 
 ### Home Screen
 
-|                Pizza dark                 |    Pizza Ocean             |
+|          Pizza Home Screen dark           |  Pizza Home Screen Light   |
 |:-----------------------------------------:|:--------------------------:|
 | ![Home Dark Mode](./assets/home_dark.png) | ![Home](./assets/home.png) |
 
 
 ### Details Screen
 
-|           Pizza dark                            |         Pizza Ocean              |
+|            Pizza Details Screen dark            |    Pizza Details Screen Light    |
 |:-----------------------------------------------:|:--------------------------------:|
 | ![Details Dark Mode](./assets/details_dark.png) | ![Details](./assets/details.png) |
 
