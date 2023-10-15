@@ -7,14 +7,16 @@
 
 ### Home Screen
 
-![Home](./assets/home.png)
-![Home Dark Mode](./assets/home_dark.png)
+|                Pizza dark                 |    Pizza Ocean             |
+|:-----------------------------------------:|:--------------------------:|
+| ![Home Dark Mode](./assets/home_dark.png) | ![Home](./assets/home.png) |
 
 
 ### Details Screen
 
-![Details](./assets/details.png)
-![Details Dark Mode](./assets/details_dark.png)
+|           Pizza dark                            |         Pizza Ocean              |
+|:-----------------------------------------------:|:--------------------------------:|
+| ![Details Dark Mode](./assets/details_dark.png) | ![Details](./assets/details.png) |
 
 
 ### Share App
