@@ -7,10 +7,9 @@
 
 ### Home Screen
 
-<p float="left">
-    ![Home](./assets/home.png)
-    ![Home Dark Mode](./assets/home_dark.png)
-</p>
+![Home](./assets/home.png)
+![Home Dark Mode](./assets/home_dark.png)
+
 
 ### Details Screen
 
