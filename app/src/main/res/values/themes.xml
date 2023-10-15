@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PizzaRecipes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lighter_red</item>
+        <item name="colorTertiary">@color/black</item>
+        <item name="colorSecondary">@color/pizza_title_light</item>
+        <item name="android:statusBarColor">@color/lighter_red</item>
+    </style>
+
+    <style name="Theme.PizzaRecipes" parent="Base.Theme.PizzaRecipes" />
+</resources>
